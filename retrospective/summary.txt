@@ -5,4 +5,7 @@
 
 
 // Name three things you changed in step one
-    
+    1.  Added the files into a folder for ease and to clean up the explorer
+    2.  Renamed all the files to have a similar marker to keep them easy to access, commit, and push, in unision 
+    3.  Changed internal contents to relay desired function of each file        
+        for example, file one is primary working file, two is secondary, and third is backup.
