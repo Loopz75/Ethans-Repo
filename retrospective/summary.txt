@@ -1,0 +1,8 @@
+// How was the merge conflict resolved?
+    in this step my merge conflict was resolved by learning how to read the text editor 
+    from here i was able to understand how to make changes to both documents to merge them
+    i found the differences beetween the two files and was able to solve the merge conflict
+
+
+// Name three things you changed in step one
+    

@@ -1,0 +1,66 @@
+commit 0deac4422e30fd0b6dc26fbbd2b9fb3dadc4144a
+Merge: b0fad09 41ebd0f
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 21:38:19 2025 -0800
+
+    Merge branch 'Test'
+
+commit b0fad09d954339b1f81c59c779668c9d09b3cc35
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 21:38:10 2025 -0800
+
+    Fixes Merge Conflict
+
+commit dede7b24d5b2767701ae903018fc877197cced29
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 21:08:54 2025 -0800
+
+    merge conflict
+
+commit 41ebd0fba2fbcac06c66dec86f392473de22230f
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 20:58:54 2025 -0800
+
+    Simulate Merge Conflict
+
+commit f399dd1efa2dc7e93dd6347bba693c0f7774d430
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 20:45:23 2025 -0800
+
+    changes Readme
+
+commit 24e803517864e117d466f9b77963c8f8e4060205
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:20:51 2025 -0800
+
+    adds Student ID#
+
+commit 654a4ba9cb019e29013e170a913b215054ece958
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:16:49 2025 -0800
+
+    adds README & Test branch
+
+commit d3a905ccd4e305b2489e73016cea7fd114fa0a04
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:12:18 2025 -0800
+
+    Commits File Three
+
+commit 97ac28dd65e1cc7f5d7930e394e38b16fb136f7a
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:11:56 2025 -0800
+
+    Commits File Two
+
+commit cc49a099b87c9c1ae3a43cf59d0bb1f1104e17f0
+Author: Ethan Rogers <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:11:33 2025 -0800
+
+    Commits File One
+
+commit 13d57327b88631def046dd933b40f2413c244130
+Author: Loopz75 <eroger52@wgu.edu>
+Date:   Thu Dec 25 19:03:07 2025 -0800
+
+    Initial commit
